@@ -1,0 +1,71 @@
+idx,item,itemLabel,linkcount,person,include,notes,more notes,concern
+0.1241903194,http://www.wikidata.org/entity/Q22897,Wikipedia:Articles for deletion,231,mako,TRUE,"possibly pure discussion in some languages; discussion of policies in many other languages, unusually in combination with other material",,TRUE
+0.6675018788,http://www.wikidata.org/entity/Q4654366,Wikipedia:Mediation,21,zhaozhi,TRUE,"Was MAYBE. This is an explanatory essay about Wikipedia:Dispute resolution.
+This page is intended to provide additional information about concepts in the page(s) it supplements. This page is not one of Wikipedia's policies or guidelines, as it has not been thoroughly vetted by the community.   Link to French is to a discussions page, not the policy (althoguh French does have the policy, it's just missed by the link)",,TRUE
+0.9098873564,http://www.wikidata.org/entity/Q4657677,Wikipedia:Voting,96,zhaozhi,TRUE,"no in English, zh, zh-yue; yes in es 此頁不是维基百科核心方针或指引，是單一或若干維基百科编者對社羣規範或維基百科的觀點，尚未得到充分共識。有些论述是社群中绝大多数编者的意见，有些只是少数编者观点。/ 	
+This page describes an official policy of Wikipedia in Spanish.
+It has been developed by the community and its compliance is mandatory for all publishers. You can edit it to improve its wording and formatting, but if you want to change any substantive issues, seek community consensus first.",,TRUE
+0.335507291,http://www.wikidata.org/entity/Q4654740,Wikipedia:Requests for comment,63,weijun,TRUE,Portuguese and dutch wikis are records of requests,,TRUE
+0.3086365454,http://www.wikidata.org/entity/Q76703439,Wikipedia:Alphabetical order,2,mako,FALSE,description of unicode sorting,,
+0.4509337195,http://www.wikidata.org/entity/Q4663903,Wikimedia portal,90,mako,TRUE,policies of guidelines,,TRUE
+0.1170132707,http://www.wikidata.org/entity/Q13429672,Wikipedia:Requests for undeletion,23,zhaozhi,TRUE,since it's a discussion (confirmed by a few of us),,TRUE
+0.1685992594,http://www.wikidata.org/entity/Q4167836,Wikimedia category,133,zhaozhi,TRUE,This page documents an English Wikipedia editing guideline.,,
+0.005459067562,http://www.wikidata.org/entity/Q4592334,Wikipedia:User pages,144,mako,TRUE,at least in english,,
+0.009752034417,http://www.wikidata.org/entity/Q4663994,Wikipedia:Ownership of content,51,mako,TRUE,marked as policy,,
+0.48939367,http://www.wikidata.org/entity/Q4663273,Wikipedia:Libel,26,mako,TRUE,,,
+0.7408411569,http://www.wikidata.org/entity/Q4654415,Wikipedia:No legal threats,52,mako,TRUE,,,TRUE
+0.7035210299,http://www.wikidata.org/entity/Q4048254,Wikipedia:Requests for adminship,288,mako,TRUE,"yes, but includes discussion",,
+0.1078924686,http://www.wikidata.org/entity/Q4657623,Project:External links,79,mako,TRUE,,,
+0.4563133763,http://www.wikidata.org/entity/Q642335,Wikipedia:Citing sources,147,mako,TRUE,,,
+0.08954822061,http://www.wikidata.org/entity/Q11127329,Wikipedia:Naming conventions (categories),14,mako,TRUE,,,
+0.1181693091,http://www.wikidata.org/entity/Q4664011,Wikipedia:Vandalism,155,mako,TRUE,"yes, policy",,
+0.2346664487,http://www.wikidata.org/entity/Q4657349,Wikipedia:Manual of Style/Biography,28,mako,TRUE,"yes, MOS article",,
+0.9542707066,http://www.wikidata.org/entity/Q11044054,Wikipedia:Splitting,16,seth,TRUE,,,
+0.9663576854,http://www.wikidata.org/entity/Q4664090,Wikipedia:Merging,60,seth,TRUE,hsb has some discussion,,TRUE
+0.6073754114,http://www.wikidata.org/entity/Q4656551,Eligibility to vote,13,seth,TRUE,notable for doesn't include English,,
+0.8081939715,http://www.wikidata.org/entity/Q4345841,Wikipedia:What Wikipedia is not,208,seth,TRUE,,,
+0.2629646755,http://www.wikidata.org/entity/Q4663309,project:conflict of interest,76,seth,TRUE,,,
+0.9304057869,http://www.wikidata.org/entity/Q4616470,Project:Protection policy,164,seth,TRUE,some pages are lists (Seth Frey error here (points to a list): https://ang.wikipedia.org/wiki/Wikip%C7%A3dia:Protected_pages delegatory stub here: https://an.wikipedia.org/wiki/Wikipedia:Politicas_de_bloqueyo_de_pachinas (and others)),,TRUE
+0.176233569,http://www.wikidata.org/entity/Q4656524,Wikipedia:No original research,94,seth,TRUE,,,
+0.3501661036,http://www.wikidata.org/entity/Q4657380,Wikipedia:Article size,31,seth,TRUE,,,
+0.4349032865,http://www.wikidata.org/entity/Q4663944,Wikipedia:Notability (music),30,seth,TRUE,,,
+0.4421468348,http://www.wikidata.org/entity/Q4663356,Wikipedia:Assume good faith,109,seth,TRUE,"guideline, very important",,
+0.1919166234,http://www.wikidata.org/entity/Q4663933,Wikipedia:Notability (web),27,julia,TRUE,marked as guidline,,
+0.03064939038,http://www.wikidata.org/entity/Q4657797,Wikipedia:Userboxes,98,julia,TRUE,marked as project content guidline,,
+0.8865348496,http://www.wikidata.org/entity/Q4664109,Wikipedia:Criteria for speedy deletion,137,julia,TRUE,marked as policy,,
+0.4156080216,http://www.wikidata.org/entity/Q4616152,Wikipedia:Arbitration/Policy,23,julia,TRUE,marked as policy,,
+0.8306045143,http://www.wikidata.org/entity/Q4654351,Wikipedia:Consensus,107,julia,TRUE,marked as policy,,
+0.9201207224,http://www.wikidata.org/entity/Q4657574,"Project:Notability, inclusion and scope policy",150,julia,TRUE,marked as notability guidline,,
+0.7588427582,http://www.wikidata.org/entity/Q3186256,Wikipedia:Article titles,167,julia,TRUE,marked as policy,,
+0.390976257,http://www.wikidata.org/entity/Q4654447,Wikipedia:Negotiation,5,julia,TRUE,essay on the Dispute resolution policy but with some discussion of proscriptions for WP,,
+0.7085644584,http://www.wikidata.org/entity/Q15080994,Project:Template editors,17,julia,TRUE,marked as behavioral guidline,,
+0.005648185875,http://www.wikidata.org/entity/Q4657775,Wikipedia:Do not disrupt Wikipedia to illustrate a point,58,julia,TRUE,"marked as behavioral guidline, essay in German; ",,
+0.7266334475,http://www.wikidata.org/entity/Q4654667,Wikipedia:Dispute resolution,67,julia,TRUE,marked as policy,,
+0.4747638189,http://www.wikidata.org/entity/Q9276887,Wikipedia:Fringe theories,18,julia,TRUE,marked as content guideline,,
+0.1114757744,http://www.wikidata.org/entity/Q4994848,Project:Manual of Style,228,julia,TRUE,marked as guidline,,
+0.5291095277,http://www.wikidata.org/entity/Q4663253,Wikipedia:Signatures,136,zhaozhi,TRUE,marked as guideline and part of policy,,
+0.03828667321,http://www.wikidata.org/entity/Q4663914,Wikipedia:Reliable sources,83,zhaozhi,TRUE,"This page documents an English Wikipedia content guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.",,
+0.4614022138,http://www.wikidata.org/entity/Q4656487,Project:Neutral point of view,181,zhaozhi,TRUE,,,
+0.7292565554,http://www.wikidata.org/entity/Q4663975,Wikipedia:Manual of Style/Words to watch,60,zhaozhi,TRUE,"This guideline is a part of the English Wikipedia's Manual of Style.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.",,
+0.4875667125,http://www.wikidata.org/entity/Q4656567,Wikipedia:Three-revert rule,44,zhaozhi,TRUE,"This page documents an English Wikipedia policy.
+It describes a widely accepted standard that all editors should normally follow. Changes made to it should reflect consensus.",,
+0.7015254323,http://www.wikidata.org/entity/Q4663261,Wikipedia:Stub,181,zhaozhi,TRUE,"This page documents an English Wikipedia editing guideline.
+It is a generally accepted standard that editors should attempt to follow, though it is best treated with common sense, and occasional exceptions may apply. Any substantive edit to this page should reflect consensus. When in doubt, discuss first on the talk page.",,
+0.09796429473,http://www.wikidata.org/entity/Q55386965,Project:Interface administrators,173,zhaozhi,TRUE,"This page documents a procedural policy of Wikipedia.
+It documents various processes by which the English Wikipedia operates.",,
+0.828063041,http://www.wikidata.org/entity/Q4654593,Wikipedia:Civility,80,zhaozhi,TRUE,"This page documents an English Wikipedia policy.
+It describes a widely accepted standard that all editors should normally follow. Changes made to it should reflect consensus.",,
+0.1993915905,http://www.wikidata.org/entity/Q3916099,Project:Be bold,146,weijun,TRUE,a behavioral guideline,,
+0.8958029763,http://www.wikidata.org/entity/Q5087754,Wikimedia:Language policy,4,weijun,TRUE,an official policy on Wikimedia Commons.,,
+0.2828167219,http://www.wikidata.org/entity/Q10954578,Wikipedia:Manual of Style/Spelling,35,weijun,TRUE,This guideline is a part of the Manual of Style.,,
+0.3467973295,http://www.wikidata.org/entity/Q4657130,Wikipedia:Naming conventions (Hebrew),8,weijun,TRUE,This guideline documents a naming convention for Hebrew,,
+0.684464191,http://www.wikidata.org/entity/Q79951,Wikipedia:Verifiability,113,weijun,TRUE,,,
+0.8881925648,http://www.wikidata.org/entity/Q4167410,Wikimedia disambiguation page,146,weijun,TRUE,"""It is necessary to provide links and disambiguation pages so that readers typing in a reasonably likely topic name for more than one Wikipedia topic can quickly navigate to the article they seek.""",,
+0.09935652615,http://www.wikidata.org/entity/Q4663321,Wikipedia:Notability (people),53,weijun,TRUE,,,
+0.4923721845,http://www.wikidata.org/entity/Q3621820,Wikipedia:Etiquette,120,weijun,TRUE,behavioral guidline: Be friendly and flexible. Act in good faith.,,
+0.2327416832,http://www.wikidata.org/entity/Q10973854,Wikipedia:Writing better articles,41,weijun,TRUE,,,
+0.957205104,http://www.wikidata.org/entity/Q4663389,Wikipedia:Biographies of living persons,80,weijun,TRUE,"""This page advises on article layout and style, and on making an article clear, precise and relevant to the reader.""",,
+0.9775867299,http://www.wikidata.org/entity/Q4656540,Wikipedia:Open proxies,35,weijun,TRUE,,,
+0.02614675972,http://www.wikidata.org/entity/Q4657322,Project:Autobiography,53,weijun,TRUE,""" Avoid writing or editing an article about yourself.",,

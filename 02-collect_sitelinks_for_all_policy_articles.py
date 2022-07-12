@@ -5,8 +5,20 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 
-query = pd.read_csv('generated_data/policy_page_sitelinks-sparql.csv')
+query = pd.read_csv('data/policy_page_sitelinks-sparql.csv')
 url_list = query.item.apply(lambda x: ('https://www.wikidata.org/wiki/'+x.split('/')[-1]))
+
+# merge in data from manual validation
+val_data = pd.read_csv("data/policy_page_sitelinks-sparql-VALIDATION.csv")[["item", "include", "concern"]]
+
+# print(val_data["include"].value_counts())
+# print(val_data["concern"].value_counts())
+val_data["concern"] = val_data["concern"] == True
+
+# drop the stuff we've decided to drop
+query = pd.merge(query, val_data, on="item")
+query = query[query["include"]]
+query = query.drop(columns="include")
 
 # url = 'https://www.wikidata.org/wiki/Q4616152'
 df_list = []
@@ -37,7 +49,7 @@ df_all['lang'] = df_all['url'].apply(lambda x: x.split('/')[2].split('.')[0] )
 df_all = df_all[["lang", "QID", "url", "lang_href", "policy_name_en"]]
 
 ## output the edge list and the full list of policy information
-df_all[['lang', 'QID', 'policy_name_en']].to_csv('generated_data/edge_list.csv', index=False)
+df_all[['lang', 'QID', 'policy_name_en']].to_csv('data/edge_list.csv', index=False)
 
-df_all.to_csv('generated_data/policy_page_links.csv', index=False)
+df_all.to_csv('data/policy_page_links.csv', index=False)
 

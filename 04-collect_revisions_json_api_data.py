@@ -4,7 +4,7 @@ import pandas as pd
 import requests
 import json
 
-df = pd.read_csv('generated_data/policy_page_links-post03.csv')
+df = pd.read_csv('data/policy_page_links-post03.csv')
 
 for lang, title in df[['lang', 'title']].itertuples(index=False):
     base_url = 'https://' + lang + '.wikipedia.org/w/api.php'

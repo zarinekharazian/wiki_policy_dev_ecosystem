@@ -8,7 +8,7 @@ https://www.wikidata.org/wiki/Q4656150
 
   Script: 01-sparql_query.txt
   Query: https://w.wiki/5RCg
-  Output: generated_data/policy_page_sitelinks-sparql.csv (symlink)
+  Output: data/policy_page_sitelinks-sparql.csv (symlink)
 
 2.
 
@@ -16,7 +16,7 @@ Get the full list of policy pages for each of the policies listed in Wikidata
 collected from the query in #1.
 
   Script: 02-collect_sitelinks_for_all_policy_articles.py 
-  Inputs: generated_data/policy_page_sitelinks-sparql.csv (#1)
+  Inputs: data/policy_page_sitelinks-sparql.csv (#1)
   Outputs: edge_list.csv policy_page_links.csv
 
 3.
@@ -29,12 +29,12 @@ This drops any policy pages (currently just one!) that appear to be missing.
 This might need to be fixed in Wikidata.
 
   Script: 03-identify_policy_order.py
-  Inputs: generated_data/policy_page_links.csv
-  Outputs: generated_data/policy_page_links-post03.csv
+  Inputs: data/policy_page_links.csv
+  Outputs: data/policy_page_links-post03.csv
 
 4.
 
-Script: python3 ./04-collect_revisions_json_api_data.py > generated_data/policy_page_revision_payloads.jsonl
-Inputs: generated_data/policy_page_links-post03.csv
-Outputs: generated_data/policy_page_revision_payloads.jsonl
+Script: python3 ./04-collect_revisions_json_api_data.py > data/policy_page_revision_payloads.jsonl
+Inputs: data/policy_page_links-post03.csv
+Outputs: data/policy_page_revision_payloads.jsonl
 

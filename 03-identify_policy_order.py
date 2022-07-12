@@ -9,7 +9,7 @@ import urllib.parse
 from datetime import datetime 
 
 ## this is the only line you'll need to change to get this to work in 
-sitelink_df=pd.read_csv('generated_data/policy_page_links.csv')
+sitelink_df=pd.read_csv('data/policy_page_links.csv')
 # sitelink_df=pd.read_csv('/content/drive/MyDrive/Wikipedia Policy Development BIGSSS/policy_page_links.csv')
 
 # get the page name
@@ -69,7 +69,7 @@ for qid, df_subset in sitelink_df.groupby('QID'):
 sitelink_df = df_new
 
 # write out the post03 data processing
-sitelink_df.to_csv('generated_data/policy_page_links-post03.csv', index=False)
+sitelink_df.to_csv('data/policy_page_links-post03.csv', index=False)
 
 # old code to split groups intos groups of 50 titles by wiki
 # title_max = 1
