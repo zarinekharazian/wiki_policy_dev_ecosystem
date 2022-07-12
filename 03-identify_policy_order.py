@@ -16,10 +16,7 @@ sitelink_df=pd.read_csv('generated_data/policy_page_links.csv')
 sitelink_df['title'] = sitelink_df.url.apply(lambda x: urllib.parse.unquote(re.sub('^.*/wiki/', '', x)))
 
 timestamp_list = []
-for row in sitelink_df[['lang', 'title']].iterrows():
-    lang = row[1]['lang']
-    title = row[1]['title']
-
+for lang, title in sitelink_df[['lang', 'title']].itertuples(index=False):
     params = {'titles' : title,
               'format' : 'json',
               'action' : 'query',
