@@ -21,6 +21,8 @@ event.log <- eventlog(d,
                       resource_id = "resource")
 
 
+write_xes(event.log, "data/event_log.xes")
+
 filter_activity_frequency(event.log, c(100, 150)) %>% process_map()
 
 process_map(event.log, type = frequency("absolute"))
