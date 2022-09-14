@@ -43,7 +43,7 @@ jdotted_chart(event.log, x="absolute", y="start")
 library(fuzzymineR)
 library(seqClustR)
 
-
+# this seems to crash
 metrics <- mine_fuzzy_model(event.log, verbose=TRUE)
 
 viz_fuzzy_model(metrics = metrics,
