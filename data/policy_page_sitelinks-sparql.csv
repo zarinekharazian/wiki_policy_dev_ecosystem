@@ -1,62 +1,202 @@
 item,itemLabel,type,linkcount
-http://www.wikidata.org/entity/Q4048254,Wikipedia:Requests for adminship,http://www.wikidata.org/entity/Q4656150,288
-http://www.wikidata.org/entity/Q22897,Wikipedia:Articles for deletion,http://www.wikidata.org/entity/Q4656150,231
-http://www.wikidata.org/entity/Q4994848,Project:Manual of Style,http://www.wikidata.org/entity/Q4656150,228
-http://www.wikidata.org/entity/Q4345841,Wikipedia:What Wikipedia is not,http://www.wikidata.org/entity/Q4656150,208
-http://www.wikidata.org/entity/Q4656487,Project:Neutral point of view,http://www.wikidata.org/entity/Q4656150,181
-http://www.wikidata.org/entity/Q4663261,Wikipedia:Stub,http://www.wikidata.org/entity/Q4656150,181
-http://www.wikidata.org/entity/Q55386965,Project:Interface administrators,http://www.wikidata.org/entity/Q4656150,173
-http://www.wikidata.org/entity/Q3186256,Wikipedia:Article titles,http://www.wikidata.org/entity/Q4656150,167
-http://www.wikidata.org/entity/Q4616470,Project:Protection policy,http://www.wikidata.org/entity/Q4656150,164
-http://www.wikidata.org/entity/Q4664011,Wikipedia:Vandalism,http://www.wikidata.org/entity/Q4656150,155
-http://www.wikidata.org/entity/Q4657574,"Project:Notability, inclusion and scope policy",http://www.wikidata.org/entity/Q4656150,150
-http://www.wikidata.org/entity/Q642335,Wikipedia:Citing sources,http://www.wikidata.org/entity/Q4656150,147
-http://www.wikidata.org/entity/Q3916099,Project:Be bold,http://www.wikidata.org/entity/Q4656150,146
-http://www.wikidata.org/entity/Q4167410,Wikimedia disambiguation page,http://www.wikidata.org/entity/Q4656150,146
-http://www.wikidata.org/entity/Q4592334,Wikipedia:User pages,http://www.wikidata.org/entity/Q4656150,144
-http://www.wikidata.org/entity/Q4664109,Wikipedia:Criteria for speedy deletion,http://www.wikidata.org/entity/Q4656150,137
-http://www.wikidata.org/entity/Q4663253,Wikipedia:Signatures,http://www.wikidata.org/entity/Q4656150,136
-http://www.wikidata.org/entity/Q4167836,Wikimedia category,http://www.wikidata.org/entity/Q4656150,133
-http://www.wikidata.org/entity/Q3621820,Wikipedia:Etiquette,http://www.wikidata.org/entity/Q4656150,120
-http://www.wikidata.org/entity/Q79951,Wikipedia:Verifiability,http://www.wikidata.org/entity/Q4656150,113
-http://www.wikidata.org/entity/Q4663356,Wikipedia:Assume good faith,http://www.wikidata.org/entity/Q4656150,109
-http://www.wikidata.org/entity/Q4654351,Wikipedia:Consensus,http://www.wikidata.org/entity/Q4656150,107
-http://www.wikidata.org/entity/Q4657797,Wikipedia:Userboxes,http://www.wikidata.org/entity/Q4656150,98
-http://www.wikidata.org/entity/Q4657677,Wikipedia:Voting,http://www.wikidata.org/entity/Q4656150,96
-http://www.wikidata.org/entity/Q4656524,Wikipedia:No original research,http://www.wikidata.org/entity/Q4656150,94
-http://www.wikidata.org/entity/Q4663903,Wikimedia portal,http://www.wikidata.org/entity/Q4656150,90
-http://www.wikidata.org/entity/Q4663914,Wikipedia:Reliable sources,http://www.wikidata.org/entity/Q4656150,83
-http://www.wikidata.org/entity/Q4654593,Wikipedia:Civility,http://www.wikidata.org/entity/Q4656150,80
-http://www.wikidata.org/entity/Q4663389,Wikipedia:Biographies of living persons,http://www.wikidata.org/entity/Q4656150,80
-http://www.wikidata.org/entity/Q4657623,Project:External links,http://www.wikidata.org/entity/Q4656150,79
-http://www.wikidata.org/entity/Q4663309,project:conflict of interest,http://www.wikidata.org/entity/Q4656150,76
-http://www.wikidata.org/entity/Q4654667,Wikipedia:Dispute resolution,http://www.wikidata.org/entity/Q4656150,67
-http://www.wikidata.org/entity/Q4654740,Wikipedia:Requests for comment,http://www.wikidata.org/entity/Q4656150,63
-http://www.wikidata.org/entity/Q4663975,Wikipedia:Manual of Style/Words to watch,http://www.wikidata.org/entity/Q4656150,60
-http://www.wikidata.org/entity/Q4664090,Wikipedia:Merging,http://www.wikidata.org/entity/Q4656150,60
-http://www.wikidata.org/entity/Q4657775,Wikipedia:Do not disrupt Wikipedia to illustrate a point,http://www.wikidata.org/entity/Q4656150,58
+http://www.wikidata.org/entity/Q4039395,Project:Administrators,http://www.wikidata.org/entity/Q4656150,614
+http://www.wikidata.org/entity/Q4048867,Project:Bots,http://www.wikidata.org/entity/Q115666147,475
+http://www.wikidata.org/entity/Q4048254,Wikipedia:Requests for adminship,http://www.wikidata.org/entity/Q4656150,303
+http://www.wikidata.org/entity/Q4375196,Wikipedia:Copyrights,http://www.wikidata.org/entity/Q4656150,295
+http://www.wikidata.org/entity/Q22897,Wikipedia:Articles for deletion,http://www.wikidata.org/entity/Q4656150,250
+http://www.wikidata.org/entity/Q4994848,Project:Manual of Style,http://www.wikidata.org/entity/Q4656150,240
+http://www.wikidata.org/entity/Q4345841,Wikipedia:What Wikipedia is not,http://www.wikidata.org/entity/Q4656150,223
+http://www.wikidata.org/entity/Q55386965,Project:Interface administrators,http://www.wikidata.org/entity/Q4656150,194
+http://www.wikidata.org/entity/Q4656487,Wikipedia:Neutral point of view,http://www.wikidata.org/entity/Q4656150,192
+http://www.wikidata.org/entity/Q5009984,Project:Deletion policy,http://www.wikidata.org/entity/Q4656150,191
+http://www.wikidata.org/entity/Q4663261,Wikipedia:Stub,http://www.wikidata.org/entity/Q4656150,187
+http://www.wikidata.org/entity/Q3186256,Wikipedia:Article titles,http://www.wikidata.org/entity/Q4656150,178
+http://www.wikidata.org/entity/Q4966605,Wikipedia:How to create a page,http://www.wikidata.org/entity/Q4656150,173
+http://www.wikidata.org/entity/Q4616470,Project:Protection policy,http://www.wikidata.org/entity/Q4656150,172
+http://www.wikidata.org/entity/Q4664011,Wikipedia:Vandalism,http://www.wikidata.org/entity/Q4656150,170
+http://www.wikidata.org/entity/Q175291,Wikipedia:Blocking policy,http://www.wikidata.org/entity/Q4656150,159
+http://www.wikidata.org/entity/Q4657574,notability policy for a Wikimedia content project,http://www.wikidata.org/entity/Q4656150,159
+http://www.wikidata.org/entity/Q3916099,Project:Be bold,http://www.wikidata.org/entity/Q4656150,156
+http://www.wikidata.org/entity/Q4664109,Wikipedia:Criteria for speedy deletion,http://www.wikidata.org/entity/Q4656150,152
+http://www.wikidata.org/entity/Q642335,Wikipedia:Citing sources,http://www.wikidata.org/entity/Q4656150,151
+http://www.wikidata.org/entity/Q4592334,Project:User pages,http://www.wikidata.org/entity/Q4656150,151
+http://www.wikidata.org/entity/Q118521146,Project:Disambiguation,http://www.wikidata.org/entity/Q4656150,150
+http://www.wikidata.org/entity/Q4167836,Wikimedia category,http://www.wikidata.org/entity/Q4656150,144
+http://www.wikidata.org/entity/Q4663253,Wikipedia:Signatures,http://www.wikidata.org/entity/Q4656150,142
+http://www.wikidata.org/entity/Q4664077,Project:Username policy,http://www.wikidata.org/entity/Q4656150,131
+http://www.wikidata.org/entity/Q4048709,Wikipedia:IP block exemption,http://www.wikidata.org/entity/Q4656150,127
+http://www.wikidata.org/entity/Q3621820,Wikipedia:Etiquette,http://www.wikidata.org/entity/Q4656150,126
+http://www.wikidata.org/entity/Q79951,Wikipedia:Verifiability,http://www.wikidata.org/entity/Q4656150,119
+http://www.wikidata.org/entity/Q4131621,Wikipedia:Sockpuppetry,http://www.wikidata.org/entity/Q4656150,118
+http://www.wikidata.org/entity/Q6618850,Wikimedia:Image use policy,http://www.wikidata.org/entity/Q4656150,117
+http://www.wikidata.org/entity/Q4049038,Project:CheckUser,http://www.wikidata.org/entity/Q4656150,114
+http://www.wikidata.org/entity/Q4663356,Wikipedia:Assume good faith,http://www.wikidata.org/entity/Q4656150,113
+http://www.wikidata.org/entity/Q4654351,Wikipedia:Consensus,http://www.wikidata.org/entity/Q4656150,110
+http://www.wikidata.org/entity/Q4654725,Wikipedia:No personal attacks,http://www.wikidata.org/entity/Q4656150,109
+http://www.wikidata.org/entity/Q4657797,Project:Userboxes,http://www.wikidata.org/entity/Q4656150,108
+http://www.wikidata.org/entity/Q4657677,Wikipedia:Voting,http://www.wikidata.org/entity/Q4656150,103
+http://www.wikidata.org/entity/Q4656524,Wikipedia:No original research,http://www.wikidata.org/entity/Q4656150,98
+http://www.wikidata.org/entity/Q4663903,Wikimedia portal,http://www.wikidata.org/entity/Q4656150,95
+http://www.wikidata.org/entity/Q4657367,Wikipedia:Please do not bite the newcomers,http://www.wikidata.org/entity/Q4656150,93
+http://www.wikidata.org/entity/Q4759272,Wikipedia:Edit warring,http://www.wikidata.org/entity/Q4656150,92
+http://www.wikidata.org/entity/Q4048674,Revision suppression,http://www.wikidata.org/entity/Q4656150,86
+http://www.wikidata.org/entity/Q4654593,Wikipedia:Civility,http://www.wikidata.org/entity/Q4656150,86
+http://www.wikidata.org/entity/Q4663914,Wikipedia:Reliable sources,http://www.wikidata.org/entity/Q4656150,85
+http://www.wikidata.org/entity/Q5148465,Project:Rollback,http://www.wikidata.org/entity/Q4656150,84
+http://www.wikidata.org/entity/Q4657739,Wikipedia:Non-free content,http://www.wikidata.org/entity/Q4656150,83
+http://www.wikidata.org/entity/Q4657623,Project:External links,http://www.wikidata.org/entity/Q4656150,81
+http://www.wikidata.org/entity/Q4663389,policy on material about living persons on a Wikimedia content project,http://www.wikidata.org/entity/Q4656150,81
+http://www.wikidata.org/entity/Q4654667,Wikipedia:Dispute resolution,http://www.wikidata.org/entity/Q4656150,69
+http://www.wikidata.org/entity/Q4391089,Wikipedia:Non-free content criteria,http://www.wikidata.org/entity/Q4656150,67
+http://www.wikidata.org/entity/Q4654740,Wikimedia Request for Comment,http://www.wikidata.org/entity/Q4656150,63
+http://www.wikidata.org/entity/Q4663975,Wikipedia:Manual of Style/Words to watch,http://www.wikidata.org/entity/Q4656150,62
+http://www.wikidata.org/entity/Q4664090,Wikipedia:Merging,http://www.wikidata.org/entity/Q4656150,62
+http://www.wikidata.org/entity/Q4063423,Wikimedia VRTS,http://www.wikidata.org/entity/Q4656150,61
+http://www.wikidata.org/entity/Q4657775,Wikipedia:Do not disrupt Wikipedia to illustrate a point,http://www.wikidata.org/entity/Q4656150,59
+http://www.wikidata.org/entity/Q4654415,Wikipedia:No legal threats,http://www.wikidata.org/entity/Q4656150,56
+http://www.wikidata.org/entity/Q5641607,Wikipedia:Talk page guidelines,http://www.wikidata.org/entity/Q4656150,55
+http://www.wikidata.org/entity/Q4663321,Wikipedia:Notability (people),http://www.wikidata.org/entity/Q4656150,54
+http://www.wikidata.org/entity/Q4663994,Wikipedia:Ownership of content,http://www.wikidata.org/entity/Q4656150,54
+http://www.wikidata.org/entity/Q8639023,Wikipedia:Bot policy,http://www.wikidata.org/entity/Q4656150,54
 http://www.wikidata.org/entity/Q4657322,Project:Autobiography,http://www.wikidata.org/entity/Q4656150,53
-http://www.wikidata.org/entity/Q4663321,Wikipedia:Notability (people),http://www.wikidata.org/entity/Q4656150,53
-http://www.wikidata.org/entity/Q4654415,Wikipedia:No legal threats,http://www.wikidata.org/entity/Q4656150,52
-http://www.wikidata.org/entity/Q4663994,Wikipedia:Ownership of content,http://www.wikidata.org/entity/Q4656150,51
-http://www.wikidata.org/entity/Q4656567,Wikipedia:Three-revert rule,http://www.wikidata.org/entity/Q4656150,44
-http://www.wikidata.org/entity/Q10973854,Wikipedia:Writing better articles,http://www.wikidata.org/entity/Q4656150,41
-http://www.wikidata.org/entity/Q4656540,Wikipedia:Open proxies,http://www.wikidata.org/entity/Q4656150,35
-http://www.wikidata.org/entity/Q10954578,Wikipedia:Manual of Style/Spelling,http://www.wikidata.org/entity/Q4656150,35
-http://www.wikidata.org/entity/Q4657380,Wikipedia:Article size,http://www.wikidata.org/entity/Q4656150,31
+http://www.wikidata.org/entity/Q4663958,Wikipedia:Manual of Style/Layout,http://www.wikidata.org/entity/Q4656150,53
+http://www.wikidata.org/entity/Q10973854,Wikipedia:How to write better articles,http://www.wikidata.org/entity/Q4656150,46
+http://www.wikidata.org/entity/Q4656567,Wikipedia:Three-revert rule,http://www.wikidata.org/entity/Q4656150,45
+http://www.wikidata.org/entity/Q11107170,Wikipedia:Reviewing,http://www.wikidata.org/entity/Q4656150,45
+http://www.wikidata.org/entity/Q5525169,Wikipedia:Spoiler,http://www.wikidata.org/entity/Q4656150,40
+http://www.wikidata.org/entity/Q10954578,Wikipedia:Manual  of  Style/Spelling,http://www.wikidata.org/entity/Q4656150,40
+http://www.wikidata.org/entity/Q4656800,Wikipedia:Revision deletion,http://www.wikidata.org/entity/Q4656150,39
+http://www.wikidata.org/entity/Q8302842,Wikipedia:Editing policy,http://www.wikidata.org/entity/Q4656150,39
+http://www.wikidata.org/entity/Q10971677,Wikipedia:Harassment,http://www.wikidata.org/entity/Q4656150,39
+http://www.wikidata.org/entity/Q11012189,Wikipedia:Wikipedia is not a dictionary,http://www.wikidata.org/entity/Q4656150,38
+http://www.wikidata.org/entity/Q4656540,Wikipedia:Open proxies,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q6140266,Wikipedia:Banning policy,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q10966628,Wikipedia:Manual of Style/Lead section,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q11168140,Wikipedia:Manual of Style/Infoboxes,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q14767226,Wikipedia:Manual of Style/Linking,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q20859299,Project:Paid-contribution disclosure,http://www.wikidata.org/entity/Q4656150,37
+http://www.wikidata.org/entity/Q8915865,Wikipedia:Spam,http://www.wikidata.org/entity/Q4656150,36
+http://www.wikidata.org/entity/Q13409276,Wikipedia:Disruptive editing,http://www.wikidata.org/entity/Q4656150,36
+http://www.wikidata.org/entity/Q7906941,Wikipedia:Notability (organizations and companies),http://www.wikidata.org/entity/Q4656150,34
+http://www.wikidata.org/entity/Q4657380,Wikipedia:Article size,http://www.wikidata.org/entity/Q4656150,33
+http://www.wikidata.org/entity/Q4657349,Wikipedia:Manual of Style/Biography,http://www.wikidata.org/entity/Q4656150,31
+http://www.wikidata.org/entity/Q4663273,Wikipedia:Libel,http://www.wikidata.org/entity/Q4656150,30
 http://www.wikidata.org/entity/Q4663944,Wikipedia:Notability (music),http://www.wikidata.org/entity/Q4656150,30
-http://www.wikidata.org/entity/Q4657349,Wikipedia:Manual of Style/Biography,http://www.wikidata.org/entity/Q4656150,28
+http://www.wikidata.org/entity/Q8917381,Wikipedia:Gaming the system,http://www.wikidata.org/entity/Q4656150,30
+http://www.wikidata.org/entity/Q11157638,Wikipedia:Child protection,http://www.wikidata.org/entity/Q4656150,30
+http://www.wikidata.org/entity/Q10977489,Wikipedia:Do not create hoaxes,http://www.wikidata.org/entity/Q4656150,29
+http://www.wikidata.org/entity/Q5525713,Wikipedia:Manual of Style/Accessibility,http://www.wikidata.org/entity/Q4656150,28
+http://www.wikidata.org/entity/Q5733528,Wikipedia:Public domain,http://www.wikidata.org/entity/Q4656150,28
+http://www.wikidata.org/entity/Q11015648,Wikipedia:Courtesy vanishing,http://www.wikidata.org/entity/Q4656150,28
+http://www.wikidata.org/entity/Q11022068,Wikipedia:Patent nonsense,http://www.wikidata.org/entity/Q4656150,28
+http://www.wikidata.org/entity/Q13365390,Project:Brigading,http://www.wikidata.org/entity/Q4656150,28
 http://www.wikidata.org/entity/Q4663933,Wikipedia:Notability (web),http://www.wikidata.org/entity/Q4656150,27
-http://www.wikidata.org/entity/Q4663273,Wikipedia:Libel,http://www.wikidata.org/entity/Q4656150,26
-http://www.wikidata.org/entity/Q4616152,Wikipedia:Arbitration/Policy,http://www.wikidata.org/entity/Q4656150,23
-http://www.wikidata.org/entity/Q13429672,Wikipedia:Requests for undeletion,http://www.wikidata.org/entity/Q4656150,23
+http://www.wikidata.org/entity/Q10990487,Wikipedia:Copyright violations,http://www.wikidata.org/entity/Q4656150,27
+http://www.wikidata.org/entity/Q4616152,Wikipedia:Arbitration/Policy,http://www.wikidata.org/entity/Q4656150,25
+http://www.wikidata.org/entity/Q8085769,Wikipedia:Plagiarism,http://www.wikidata.org/entity/Q4656150,25
+http://www.wikidata.org/entity/Q11889184,Wikipedia:Notability (books),http://www.wikidata.org/entity/Q4656150,25
+http://www.wikidata.org/entity/Q13429672,Wikipedia:Requests for undeletion,http://www.wikidata.org/entity/Q4656150,25
+http://www.wikidata.org/entity/Q10955086,Wikipedia:Offensive material,http://www.wikidata.org/entity/Q4656150,23
+http://www.wikidata.org/entity/Q10964165,Wikipedia:Proposed deletion,http://www.wikidata.org/entity/Q4656150,22
+http://www.wikidata.org/entity/Q11562401,Project:Reusing content of this project,http://www.wikidata.org/entity/Q4656150,22
 http://www.wikidata.org/entity/Q4654366,Wikipedia:Mediation,http://www.wikidata.org/entity/Q4656150,21
+http://www.wikidata.org/entity/Q7236489,Wikipedia:Notability (events),http://www.wikidata.org/entity/Q4656150,20
+http://www.wikidata.org/entity/Q11293678,Wikipedia:Manual of Style/Writing about fiction,http://www.wikidata.org/entity/Q4656150,20
+http://www.wikidata.org/entity/Q14360533,Wikipedia:Attack page,http://www.wikidata.org/entity/Q4656150,20
+http://www.wikidata.org/entity/Q5617729,Wikipedia:Accuracy dispute,http://www.wikidata.org/entity/Q4656150,19
+http://www.wikidata.org/entity/Q8988847,Wikipedia:Rough guide to semi-protection,http://www.wikidata.org/entity/Q4656150,19
+http://www.wikidata.org/entity/Q10948878,Wikipedia:Do not include the full text of lengthy primary sources,http://www.wikidata.org/entity/Q4656150,19
+http://www.wikidata.org/entity/Q11044054,Wikipedia:Splitting,http://www.wikidata.org/entity/Q4656150,19
+http://www.wikidata.org/entity/Q11888851,Wikipedia:Notability (films),http://www.wikidata.org/entity/Q4656150,19
+http://www.wikidata.org/entity/Q12486883,Wikipedia:Manual of Style/Film,http://www.wikidata.org/entity/Q4656150,19
 http://www.wikidata.org/entity/Q9276887,Wikipedia:Fringe theories,http://www.wikidata.org/entity/Q4656150,18
-http://www.wikidata.org/entity/Q15080994,Project:Template editors,http://www.wikidata.org/entity/Q4656150,17
-http://www.wikidata.org/entity/Q11044054,Wikipedia:Splitting,http://www.wikidata.org/entity/Q4656150,16
+http://www.wikidata.org/entity/Q11098188,office action,http://www.wikidata.org/entity/Q4656150,18
+http://www.wikidata.org/entity/Q15555389,Project:Logo policy,http://www.wikidata.org/entity/Q4656150,18
+http://www.wikidata.org/entity/Q5525311,Wikipedia:Manual of Style/Dates and numbers,http://www.wikidata.org/entity/Q4656150,17
+http://www.wikidata.org/entity/Q7908103,Wikipedia:Notability (academics),http://www.wikidata.org/entity/Q4656150,17
+http://www.wikidata.org/entity/Q13627492,Project:Responding to threats of harm,http://www.wikidata.org/entity/Q4656150,17
+http://www.wikidata.org/entity/Q11243563,Wikipedia:Manual of Style/Text formatting,http://www.wikidata.org/entity/Q4656150,16
+http://www.wikidata.org/entity/Q13360396,Wikipedia:Appealing a block,http://www.wikidata.org/entity/Q4656150,16
+http://www.wikidata.org/entity/Q10957687,Wikipedia:Content forking,http://www.wikidata.org/entity/Q4656150,14
+http://www.wikidata.org/entity/Q11055873,Wikipedia:Deletion process,http://www.wikidata.org/entity/Q4656150,14
 http://www.wikidata.org/entity/Q11127329,Wikipedia:Naming conventions (categories),http://www.wikidata.org/entity/Q4656150,14
+http://www.wikidata.org/entity/Q12126069,Project:Abbreviations,http://www.wikidata.org/entity/Q4656150,14
+http://www.wikidata.org/entity/Q12126916,Wikipedia:Clean start,http://www.wikidata.org/entity/Q4656150,14
 http://www.wikidata.org/entity/Q4656551,Eligibility to vote,http://www.wikidata.org/entity/Q4656150,13
+http://www.wikidata.org/entity/Q5525012,Wikipedia:Manual of Style/Trivia sections,http://www.wikidata.org/entity/Q4656150,13
+http://www.wikidata.org/entity/Q8783229,Wikipedia:Manual of Style/Disambiguation pages,http://www.wikidata.org/entity/Q4656150,13
+http://www.wikidata.org/entity/Q14360534,Wikipedia:Manual of Style/Japan-related articles,http://www.wikidata.org/entity/Q4656150,13
+http://www.wikidata.org/entity/Q11889803,Wikipedia:Notability (sports),http://www.wikidata.org/entity/Q4657574,12
+http://www.wikidata.org/entity/Q11889803,Wikipedia:Notability (sports),http://www.wikidata.org/entity/Q4656150,12
+http://www.wikidata.org/entity/Q12125348,Wikipedia:Manual of Style/Anime- and manga-related articles,http://www.wikidata.org/entity/Q4656150,12
+http://www.wikidata.org/entity/Q4656789,Wikipedia:Manual of Style/Lists,http://www.wikidata.org/entity/Q4656150,11
+http://www.wikidata.org/entity/Q6447825,Wikipedia:Notability (numbers),http://www.wikidata.org/entity/Q4656150,11
+http://www.wikidata.org/entity/Q47013094,Wikipedia:Proposed deletion of biographies of living people,http://www.wikidata.org/entity/Q4656150,11
+http://www.wikidata.org/entity/Q9136557,Wikipedia:Speedy keep,http://www.wikidata.org/entity/Q4656150,10
+http://www.wikidata.org/entity/Q12126092,Wikipedia:Manual of Style/Capital letters,http://www.wikidata.org/entity/Q4656150,10
+http://www.wikidata.org/entity/Q13548090,Wikipedia:Manual of Style/Icons,http://www.wikidata.org/entity/Q4656150,10
+http://www.wikidata.org/entity/Q14360366,Wikipedia:No disclaimers in articles,http://www.wikidata.org/entity/Q4656150,10
+http://www.wikidata.org/entity/Q24207206,Wikipedia:Page mover,http://www.wikidata.org/entity/Q4656150,10
+http://www.wikidata.org/entity/Q13310316,Wikipedia:Manual_of_Style/Music,http://www.wikidata.org/entity/Q4656150,9
+http://www.wikidata.org/entity/Q13542643,Wikipedia:Manual of Style/Medicine-related articles,http://www.wikidata.org/entity/Q4656150,9
+http://www.wikidata.org/entity/Q16745099,Wikipedia:Manual of Style/Images,http://www.wikidata.org/entity/Q4656150,9
 http://www.wikidata.org/entity/Q4657130,Wikipedia:Naming conventions (Hebrew),http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q5460553,Wikipedia:Spam blacklist,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q13417617,Wikipedia:Deletion guidelines for administrators,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q15868233,Wikipedia:Global rights policy,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q15868552,Wikipedia:Manual of Style/Arabic,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q15868761,Wikipedia:Record charts,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q18147721,Wikipedia:Conflict of interest/Noticeboard,http://www.wikidata.org/entity/Q4656150,8
+http://www.wikidata.org/entity/Q13409340,Wikipedia:Wikipedia is not for things made up one day,http://www.wikidata.org/entity/Q4656150,7
+http://www.wikidata.org/entity/Q13548084,Wikipedia:Manual of Style/Trademarks,http://www.wikidata.org/entity/Q4656150,7
+http://www.wikidata.org/entity/Q9137568,Wikipedia:Captions,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q10971458,Wikipedia:Manual of Style/Article message boxes,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q11096100,Wikipedia:Non-U.S. copyrights,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q12126168,Wikipedia:Manual of Style/Proper names,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q13548083,Wikipedia:Manual of Style/Television,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q13548085,Wikipedia:Manual of Style/Mathematics,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q19339674,Wikipedia:Manual of Style/Tables,http://www.wikidata.org/entity/Q4656150,6
+http://www.wikidata.org/entity/Q23901124,Wikipedia:Manual of Style/National varieties of English,http://www.wikidata.org/entity/Q4656150,6
 http://www.wikidata.org/entity/Q4654447,Wikipedia:Negotiation,http://www.wikidata.org/entity/Q4656150,5
-http://www.wikidata.org/entity/Q5087754,Wikimedia:Language policy,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q5087754,Wikimedia:Language policy,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q10970929,Wikipedia:Manual of Style/Islam-related articles,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q11114424,Wikipedia:Manual of Style (lists of works),http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q13359562,Wikipedia:Manual of Style/Embedded lists,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q14605756,Wikipedia:Notability (astronomical objects),http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q14972682,Wikipedia:Deceased Wikipedians/Guidelines,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q15125252,Wikipedia:Days of the year,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q15423918,Wikipedia:Changing username/Guidelines,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q26906194,Wikipedia:Manual of Style/Chemistry/Chemicals,http://www.wikidata.org/entity/Q4656150,5
+http://www.wikidata.org/entity/Q118719909,Terms of use,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q12126336,Wikipedia:Manual of Style/Titles,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q13599930,Manual of Style/Novels,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q15060174,Wikipedia:Manual of Style/Music samples,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q20812701,Wikipedia:Manual of Style/Comics,http://www.wikidata.org/entity/Q4656150,4
+http://www.wikidata.org/entity/Q83699923,Wikipedia:Wikimedia policy,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q97376331,Wikipedia:Linking to external harassment,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q103326994,Wikipedia:Manual of Style/Glossaries,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q106624509,Wikipedia:Manual of Style/Accessibility/CSS colors for text on white,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q111474353,Wikipedia:Manual of Style/Contents,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q118238622,Wikipedia:Overlinking,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q13548082,Wikipedia:Manual of Style/Computing,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q13548091,Wikipedia:Manual of Style/China- and Chinese-related articles,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q14011832,Wikipedia:Manual of Style/Visual arts,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q15868551,Wikipedia:Manual of Style/Chemistry,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q17489102,Wikipedia:Manual of Style/Words to watch/Config,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q20900409,Wikipedia:Manual of Style/Islam-related articles/Templates,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q31202212,Wikipedia:Manual of Style/Military history,http://www.wikidata.org/entity/Q4656150,3
+http://www.wikidata.org/entity/Q112708007,Wikipedia:Manual of Style/Record charts,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q115857856,Wikipedia:Manual of Style/Legal,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q116090271,Wikipedia:Scientific citation guidelines,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q122674963,Wikivoyage:Should I merge two pages?,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q11754777,Q11754777,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q13606427,Wikipedia:Manual of Style/Poland-related articles,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q14044215,Wikipedia:User talk page,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q15868553,Wikipedia:Manual of Style/Chemistry/Compound classes,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q15868554,Wikipedia:Manual of Style/Chemistry/Structure drawing,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q15868557,Wikipedia:Manual of Style/France- and French-related articles,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q16766010,Wikipedia:Manual of Style/Philosophy,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q28054975,Wikidebate/Guidelines,http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q28952942,Wikipedia:Manual of Style (Sanitation),http://www.wikidata.org/entity/Q4656150,2
+http://www.wikidata.org/entity/Q29653429,Wikipedia:Manual of Style/Malaysia-related articles,http://www.wikidata.org/entity/Q4656150,2
 http://www.wikidata.org/entity/Q76703439,Wikipedia:Alphabetical order,http://www.wikidata.org/entity/Q4656150,2
