@@ -9,11 +9,11 @@ query = pd.read_csv('data/policy_page_sitelinks-sparql.csv')
 url_list = query.item.apply(lambda x: ('https://www.wikidata.org/wiki/'+x.split('/')[-1]))
 
 # merge in data from manual validation
-val_data = pd.read_csv("data/policy_page_sitelinks-sparql-VALIDATION.csv")[["item", "include", "concern"]]
+val_data = pd.read_csv("data/policy_page_sitelinks-sparql-VALIDATION-ZARINE.csv")[["item", "include", "category", "type"]]
 
-# print(val_data["include"].value_counts())
+print(val_data["include"].value_counts())
 # print(val_data["concern"].value_counts())
-val_data["concern"] = val_data["concern"] == True
+#val_data["concern"] = val_data["concern"] == True
 
 # drop the stuff we've decided to drop
 query = pd.merge(query, val_data, on="item")
