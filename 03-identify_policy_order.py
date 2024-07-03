@@ -53,20 +53,20 @@ sitelink_df['timestamp'] = timestamp_list
 sitelink_df = sitelink_df[sitelink_df['timestamp'] != "NA"]
 
 ## create order within wiki
-df_new = pd.DataFrame()
+df_new = []
 for lang, df_subset in sitelink_df.groupby('lang'):
     df_subset = df_subset.sort_values(by="timestamp")
     df_subset["order_within_wiki"] = range(0, df_subset.shape[0])
-    df_new = df_new.append(df_subset)
-sitelink_df = df_new
+    df_new.append(df_subset)
+sitelink_df = pd.concat(df_new)
 
 ## create order across wiki
-df_new = pd.DataFrame()
+df_new = []
 for qid, df_subset in sitelink_df.groupby('QID'):
     df_subset = df_subset.sort_values(by="timestamp")
     df_subset["order_across_wikis"] = range(0, df_subset.shape[0])
-    df_new = df_new.append(df_subset)
-sitelink_df = df_new
+    df_new.append(df_subset)
+sitelink_df = pd.concat(df_new)
 
 # write out the post03 data processing
 sitelink_df.to_csv('data/policy_page_links-post03.csv', index=False)
