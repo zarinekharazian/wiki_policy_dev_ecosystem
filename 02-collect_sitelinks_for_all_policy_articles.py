@@ -9,7 +9,7 @@ query = pd.read_csv('data/policy_page_sitelinks-sparql.csv')
 url_list = query.item.apply(lambda x: ('https://www.wikidata.org/wiki/'+x.split('/')[-1]))
 
 # merge in data from manual validation
-val_data = pd.read_csv("data/policy_page_sitelinks-sparql-VALIDATION-ZARINE.csv")[["item", "include", "category", "type"]]
+val_data = pd.read_csv("data/policy_page_sitelinks-sparql-VALIDATION-ZARINE.csv")[["item", "include", "category", "policy_type"]]
 
 print(val_data["include"].value_counts())
 # print(val_data["concern"].value_counts())
@@ -41,15 +41,14 @@ df_all['QID']=qlink_list
 ## add qids to the query frame
 query = query.assign(QID = query["item"].apply(lambda x: re.sub(r'.*/', '', x)))
 
-df_all = pd.merge(df_all, query[["QID", "itemLabel"]], on=["QID"])
+df_all = pd.merge(df_all, query[["QID", "itemLabel", "category", "policy_type"]], on=["QID"])
 df_all = df_all.rename(columns = {"hreflang" : "lang_href", "title" : "page_title", "href" : "url", "QID": "QID", "itemLabel" : "policy_name_en"})
 
 df_all['lang'] = df_all['url'].apply(lambda x: x.split('/')[2].split('.')[0] )
 
-df_all = df_all[["lang", "QID", "url", "lang_href", "policy_name_en"]]
+df_all = df_all[["lang", "QID", "url", "lang_href", "policy_name_en", "category", "policy_type"]]
 
 ## output the edge list and the full list of policy information
-df_all[['lang', 'QID', 'policy_name_en']].to_csv('data/edge_list.csv', index=False)
+df_all[['lang', 'QID', 'policy_name_en', 'category', 'policy_type']].to_csv('data/edge_list.csv', index=False)
 
 df_all.to_csv('data/policy_page_links.csv', index=False)
-

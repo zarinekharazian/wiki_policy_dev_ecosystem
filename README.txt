@@ -12,7 +12,7 @@ https://www.wikidata.org/wiki/Q4656150
 
 Download the csv from https://w.wiki/5RCg, rename it 'policy_page_sitelinks-sparql.csv' and put it in the data folder. 
 
-2. Open policy_page_sitelinks-sparql.csv. Add columns called `include` and `category`, and `type`. For each policy, put include=TRUE if you want the policy to be included in the next step, and put the category of policy it is (e.g., enforcement, behavioral, etc.). In `type', put either policy or guideline.
+2. Open policy_page_sitelinks-sparql.csv. Add columns called `include` and `category`, and `policy_type`. For each policy, put include=TRUE if you want the policy to be included in the next step, and put the category of policy it is (e.g., enforcement, behavioral, etc.). In `policy_type', put either policy or guideline.
 
 3. 
 

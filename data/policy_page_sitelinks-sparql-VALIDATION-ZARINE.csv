@@ -1,4 +1,4 @@
-item,itemLabel,type,linkcount,include,category,type
+item,itemLabel,type,linkcount,include,category,policy_type
 http://www.wikidata.org/entity/Q4039395,Project:Administrators,http://www.wikidata.org/entity/Q4656150,614,TRUE,Enforcement,Policy
 https://www.wikidata.org/wiki/Q16799070,Wikipedia:Contentious topics,http://www.wikidata.org/entity/Q4656150,4,TRUE,Enforcement,Policy
 http://www.wikidata.org/entity/Q4375196,Wikipedia:Copyrights,http://www.wikidata.org/entity/Q4656150,295,TRUE,Legal,Policy
